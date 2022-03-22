@@ -28,7 +28,8 @@
 15
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(15).jpg)
 
-
+16
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(16).jpg)
 <h1>2.	 Síðan byrjaði ég á windows verkefninu</h1>
 
 <h2>10.3.1.1 Lab - Windows Installation (engar spurningar eru í þessu verkefni)
