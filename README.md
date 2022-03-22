@@ -2,6 +2,10 @@
 1.	Í fyrsta verkefninu gerðum við interneséstsnúru einsog sést hér að neðan
 
 
+![mind](https://github.com/gitmaus1/vesmlok/blob/main/vesm/IMG_20220301_112542.jpg)
+![mind](https://github.com/gitmaus1/vesmlok/blob/main/vesm/IMG_20220301_112544.jpg)
+
+
 2.  Næst tókum við í sundur og settum aftur saman tölvu einsog myndirnar hér fyrir neðan sýna
 
 2.	 Síðan byrjaði ég á windows verkefninu
