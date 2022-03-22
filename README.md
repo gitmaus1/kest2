@@ -1,5 +1,5 @@
 # kest2
-1.	Í fyrsta verkefninu gerðum við interneséstsnúru einsog sést hér að neðan
+<h1>1.	Í fyrsta verkefninu gerðum við interneséstsnúru einsog sést hér að neðan</h1>
 
 
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(1).jpg)
