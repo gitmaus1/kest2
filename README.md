@@ -3,8 +3,15 @@
 
 
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(1).jpg)
-![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(2).jpg)
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(3).jpg)
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(4).jpg)
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(5).jpg)
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(6).jpg)
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(7).jpg)
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(8).jpg)
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(9).jpg)
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(10).jpg)
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(11).jpg)
 
 2.  Næst tókum við í sundur og settum aftur saman tölvu einsog myndirnar hér fyrir neðan sýna
 
