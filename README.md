@@ -65,6 +65,39 @@ Sjá myndir
 27
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(27).jpg)
 
+
+28
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(28).jpg)
+29
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(29).jpg)
+30
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(30).jpg)
+31
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(31).jpg)
+32
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(32).jpg)
+33
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(33).jpg)
+34
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(34).jpg)
+35
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(35).jpg)
+
+
+
+36
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(36).jpg)
+37
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(37).jpg)
+38
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(38).jpg)
+39
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(39).jpg)
+40
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(40).jpg)
+41
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(41).jpg)
+
 3.1.2.7 Lab - Install Third-Party Software in Windows
 
 10.2.1.8 Lab - Create a Partition in Windows
