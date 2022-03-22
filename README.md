@@ -85,6 +85,10 @@ Sjá myndir
 
 
 
+
+
+3.1.2.7 Lab - Install Third-Party Software in Windows
+
 36
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(36).jpg)
 37
@@ -97,8 +101,12 @@ Sjá myndir
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(40).jpg)
 41
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(41).jpg)
-
-3.1.2.7 Lab - Install Third-Party Software in Windows
+42
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(42).jpg)
+43
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(43).jpg)
+44
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(44).jpg)
 
 10.2.1.8 Lab - Create a Partition in Windows
 
