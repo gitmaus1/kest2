@@ -97,6 +97,10 @@ Sjá myndir
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(38).jpg)
 39
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(39).jpg)
+
+
+10.2.1.8 Lab - Create a Partition in Windows
+
 40
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(40).jpg)
 41
@@ -107,8 +111,6 @@ Sjá myndir
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(43).jpg)
 44
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(44).jpg)
-
-10.2.1.8 Lab - Create a Partition in Windows
 
 11.1.2.10 Lab - Explore the Windows Desktop
 
