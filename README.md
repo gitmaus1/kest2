@@ -3,8 +3,8 @@
 
 
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(1).jpg)
-![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(1).jpg)
-
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(2).jpg)
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(3).jpg)
 
 2.  Næst tókum við í sundur og settum aftur saman tölvu einsog myndirnar hér fyrir neðan sýna
 
