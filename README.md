@@ -3,7 +3,7 @@
 
 
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(1).jpg)
-![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(3).jpg)
+
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(4).jpg)
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(5).jpg)
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(6).jpg)
