@@ -100,17 +100,35 @@ Sjá myndir
 
 
 10.2.1.8 Lab - Create a Partition in Windows
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Open Computer Management by selecting the Start  button. The select Control Panel > System and Security > Administrative Tools, and then double-click Computer Management.
+
+In the left pane, under Storage, select Disk Management.
+
+Right-click an unallocated region on your hard disk, and then select New Simple Volume.
+
+In the New Simple Volume Wizard, select Next.
+
+Enter the size of the volume you want to create in megabytes (MB) or accept the maximum default size, and then select Next.
+
+Accept the default drive letter or choose a different drive letter to identify the partition, and then select Next.
+
+In the Format Partition dialog box, do one of the following:
+
+If you don't want to format the volume right now, select Do not format this volume, and then select Next.
+
+To format the volume with the default settings, select Next.
+
+Review your choices, and then select Finish.
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 40
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(40).jpg)
 41
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(41).jpg)
-42
-![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(42).jpg)
-43
-![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(43).jpg)
-44
-![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(44).jpg)
+
 
 11.1.2.10 Lab - Explore the Windows Desktop
 
