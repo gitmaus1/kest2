@@ -5,6 +5,10 @@
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(1).jpg)
 
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(4).jpg)
+
+
+2.  Næst tókum við í sundur og settum aftur saman tölvu einsog myndirnar hér fyrir neðan sýna
+
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(5).jpg)
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(6).jpg)
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(7).jpg)
@@ -13,7 +17,22 @@
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(10).jpg)
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(11).jpg)
 
-2.  Næst tókum við í sundur og settum aftur saman tölvu einsog myndirnar hér fyrir neðan sýna
+
+2222222222222222222222222222222222222222222222222222222222222222222222222222222222222
+12
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(12).jpg)
+13
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(13).jpg)
+14
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(14).jpg)
+15
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(15).jpg)
+16
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(16).jpg)
+17
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(17).jpg)
+18
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(18).jpg)
 
 2.	 Síðan byrjaði ég á windows verkefninu
 
