@@ -7,7 +7,7 @@
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(4).jpg)
 
 
-2.  Næst tókum við í sundur og settum aftur saman tölvu einsog myndirnar hér fyrir neðan sýna
+<h1>2.  Næst tókum við í sundur og settum aftur saman tölvu einsog myndirnar hér fyrir neðan sýna</h1>
 
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(5).jpg)
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(6).jpg)
@@ -29,16 +29,16 @@
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(15).jpg)
 
 
-2.	 Síðan byrjaði ég á windows verkefninu
+<h1>2.	 Síðan byrjaði ég á windows verkefninu</h1>
 
-10.3.1.1 Lab - Windows Installation (engar spurningar eru í þessu verkefni)
-Við settum inn windows stjórnunarkerfi 
+<h2>10.3.1.1 Lab - Windows Installation (engar spurningar eru í þessu verkefni)
+Við settum inn windows stjórnunarkerfi </h2>
 
-10.3.1.4 Lab - Finalize the Windows Installation
-Svo kláraði ég uppsetningu windows
+<h2>10.3.1.4 Lab - Finalize the Windows Installation
+Svo kláraði ég uppsetningu windows</h2>
 
-3.1.2.5 Lab - Search for BIOS or UEFI Firmware Updates
-Sjá myndir
+<h2>3.1.2.5 Lab - Search for BIOS or UEFI Firmware Updates
+Sjá myndir</h2>
 16
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(16).jpg)
 17
@@ -51,6 +51,19 @@ Sjá myndir
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(20).jpg)
 21
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(21).jpg)
+22
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(22).jpg)
+23
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(23).jpg)
+24
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(24).jpg)
+25
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(25).jpg)
+26
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(26).jpg)
+27
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(27).jpg)
+
 3.1.2.7 Lab - Install Third-Party Software in Windows
 
 10.2.1.8 Lab - Create a Partition in Windows
