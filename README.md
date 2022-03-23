@@ -39,7 +39,7 @@ Svo kláraði ég uppsetningu windows
 
 <h1>3.1.2.5 Lab - Search for BIOS or UEFI Firmware Updates</h1>
 Sjá myndir
-
+framleiðandinn benti á prógram minitool partition wizard 12.6 sem ubdeidaði sjálfkrafa
 16
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(16).jpg)
 17
@@ -121,6 +121,8 @@ If you don't want to format the volume right now, select Do not format this volu
 To format the volume with the default settings, select Next.
 
 Review your choices, and then select Finish.
+
+off lítið plás
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
