@@ -31,7 +31,7 @@
 
 <h1>2.	 Síðan byrjaði ég á windows verkefninu</h1>
 
-10.3.1.1 Lab - Windows Installation (engar spurningar eru í þessu verkefni)
+<h1>10.3.1.1 Lab - Windows Installation (engar spurningar eru í þessu verkefni)</h1>
 Við settum inn windows stjórnunarkerfi 
 
 10.3.1.4 Lab - Finalize the Windows Installation
