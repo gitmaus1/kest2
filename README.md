@@ -131,7 +131,14 @@ Review your choices, and then select Finish.
 
 
 11.1.2.10 Lab - Explore the Windows Desktop
-
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+það er ekkert í windows desktop nema foritin sem ég seti in í síðustu spurningu
+winzip26
+Unconfirmed 536077.crdownload
+sm-online
+pw1206-demo
+þessi forit eru í downloads
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 11.1.3.4 Lab - Work with Task Manager
 
 11.1.4.11 Lab - Working with File Explorer
