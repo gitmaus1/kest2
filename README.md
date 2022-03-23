@@ -146,10 +146,16 @@ pw1206-demo
 þessi forit eru í downloads
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 <h1>11.1.3.4 Lab - Work with Task Manager</h1>
+<br>
+
 1
+
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/1.jpg)
+
 2
+
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/2.jpg)
+
 3
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/3.jpg)
 4
