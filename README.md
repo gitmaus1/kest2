@@ -18,7 +18,7 @@
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(11).jpg)
 
 
-2222222222222222222222222222222222222222222222222222222222222222222222222222222222222
+
 12
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(12).jpg)
 13
@@ -37,7 +37,7 @@ Við settum inn windows stjórnunarkerfi
 10.3.1.4 Lab - Finalize the Windows Installation
 Svo kláraði ég uppsetningu windows
 
-3.1.2.5 Lab - Search for BIOS or UEFI Firmware Updates
+<h1>3.1.2.5 Lab - Search for BIOS or UEFI Firmware Updates</h1>
 Sjá myndir
 
 16
@@ -87,7 +87,7 @@ Sjá myndir
 
 
 
-3.1.2.7 Lab - Install Third-Party Software in Windows
+<h1>3.1.2.7 Lab - Install Third-Party Software in Windows</h1>
 
 36
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(36).jpg)
@@ -99,7 +99,7 @@ Sjá myndir
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(39).jpg)
 
 
-10.2.1.8 Lab - Create a Partition in Windows
+<h1>10.2.1.8 Lab - Create a Partition in Windows</h1>
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Open Computer Management by selecting the Start  button. The select Control Panel > System and Security > Administrative Tools, and then double-click Computer Management.
@@ -130,7 +130,7 @@ Review your choices, and then select Finish.
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(41).jpg)
 
 
-11.1.2.10 Lab - Explore the Windows Desktop
+<h1>11.1.2.10 Lab - Explore the Windows Desktop</h1>
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 það er ekkert í windows desktop nema foritin sem ég seti in í síðustu spurningu
 winzip26
@@ -139,13 +139,13 @@ sm-online
 pw1206-demo
 þessi forit eru í downloads
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-11.1.3.4 Lab - Work with Task Manager
+<h1>11.1.3.4 Lab - Work with Task Manager</h1>
 
-11.1.4.11 Lab - Working with File Explorer
+<h1>11.1.4.11 Lab - Working with File Explorer</h1>
 
-11.2.1.5 Lab - Explore Control Panel Categories
+<h1>11.2.1.5 Lab - Explore Control Panel Categories</h1>
 
-11.2.2.3 Lab - User Accounts
+<h1>11.2.2.3 Lab - User Accounts</h1>
 
 11.2.5.8 Lab - Manage Virtual Memory
 
