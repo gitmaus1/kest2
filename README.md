@@ -42,9 +42,7 @@ Sjá myndir
 framleiðandinn benti á prógram minitool partition wizard 12.6 sem ubdeidaði sjálfkrafa
 <br> 
 
-1
 
-![mind](https://github.com/gitmaus1/kest2/blob/main/kest/1.jpg)
 
 16
 
@@ -131,6 +129,10 @@ To format the volume with the default settings, select Next.
 Review your choices, and then select Finish.
 
 off lítið plás
+
+1
+
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/1.jpg)
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
