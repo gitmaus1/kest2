@@ -146,6 +146,38 @@ pw1206-demo
 þessi forit eru í downloads
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 <h1>11.1.3.4 Lab - Work with Task Manager</h1>
+1
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/1.jpg)
+2
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/2.jpg)
+3
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/3.jpg)
+4
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/4.jpg)
+5
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/5.jpg)
+6
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/6.jpg)
+7
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/7.jpg)
+8
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/8.jpg)
+9
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/9.jpg)
+11
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/10.jpg)
+12
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/11.jpg)
+13
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/12.jpg)
+14
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/13.jpg)
+15
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/14.jpg)
+16
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/15.jpg)
+17
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/16.jpg)
 
 
 
