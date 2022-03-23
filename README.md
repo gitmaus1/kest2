@@ -172,8 +172,7 @@ pw1206-demo
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/7.jpg)
 8
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/8.jpg)
-9
-![mind](https://github.com/gitmaus1/kest2/blob/main/kest/9.jpg)
+
 11
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/10.jpg)
 12
