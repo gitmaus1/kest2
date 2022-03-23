@@ -42,6 +42,10 @@ Sjá myndir
 framleiðandinn benti á prógram minitool partition wizard 12.6 sem ubdeidaði sjálfkrafa
 <br> 
 
+1
+
+![mind](https://github.com/gitmaus1/kest2/blob/main/kest/1.jpg)
+
 16
 
 ![mind](https://github.com/gitmaus1/kest2/blob/main/kest/kest/1%20(16).jpg)
@@ -148,9 +152,7 @@ pw1206-demo
 <h1>11.1.3.4 Lab - Work with Task Manager</h1>
 <br>
 
-1
 
-![mind](https://github.com/gitmaus1/kest2/blob/main/kest/1.jpg)
 
 2
 
