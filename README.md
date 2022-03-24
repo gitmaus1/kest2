@@ -186,6 +186,8 @@ pw1206-demo
 
 <h1>11.1.4.11 Lab - Working with File Explorer</h1>
 
+
+
 <h1>11.2.1.5 Lab - Explore Control Panel Categories</h1>
 
 <h1>11.2.2.3 Lab - User Accounts</h1>
