@@ -192,25 +192,25 @@ pw1206-demo
 
 <h1>11.2.2.3 Lab - User Accounts</h1>
 
-11.2.5.8 Lab - Manage Virtual Memory
+<h1>11.2.5.8 Lab - Manage Virtual Memory</h1>
 
-11.2.6.2 Lab - Use Device Manager
+<h1>11.2.6.2 Lab - Use Device Manager</h1>
 
-11.3.1.11 Lab - Monitor and Manage System Resources - Sleppa Windows Defender hlutanum, byrja á Part 2 (print spooler)
+<h1>11.3.1.11 Lab - Monitor and Manage System Resources - Sleppa Windows Defender hlutanum, byrja á Part 2 (print spooler)</h1>
 
-11.3.2.7 Lab - System Utilities
+<h1>11.3.2.7 Lab - System Utilities</h1>
 
-11.3.2.8 Lab - Manage System Files
+<h1>11.3.2.8 Lab - Manage System Files</h1>
 
-11.4.1.5 Lab - Work in the Windows Command Shell
+<h1>11.4.1.5 Lab - Work in the Windows Command Shell</h1>
 
-11.4.2.7 Lab - File System Commands
+<h1>11.4.2.7 Lab - File System Commands</h1>
 
-11.4.3.2 Lab - Disk CLI Commands
+<h1>11.4.3.2 Lab - Disk CLI Commands</h1>
 
-11.4.4.2 Lab - Task and System CLI Commands
+<h1>11.4.4.2 Lab - Task and System CLI Commands</h1>
 
-11.4.5.3 Lab - Other Useful Commands, sleppa step 2 í part 2
+<h1>11.4.5.3 Lab - Other Useful Commands, sleppa step 2 í part 2</h1>
 
 
 
