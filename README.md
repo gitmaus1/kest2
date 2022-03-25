@@ -191,59 +191,61 @@ folder1 fór in í folder2 folder2/folder1
 
 Question:
 What is the file extension for the text document?
-Type your answers here.
+Type your answers here.<br>
 
 h. Make a copy of the text document and place it in Folder2.
 Question:
 How would you do it?
-Type your answers here.
+Type your answers here.<br>
 
 i. Right-click the text document > click Properties. Click the Details tab.
 What are the attributes associated with this file?
-Type your answers here.
+Type your answers here.<br>
 
 j. Now create a folder named Folder3 inside Folder2.
 Questions:
 What is the complete path to Folder3? (Hint: One way to find this information is in the folder properties.)
-Type your answers here.
+Type your answers here.<br>
 
 In Windows 8.x and 10, which directories are listed under Folders? (Note: There is no Folders heading in
 Windows Explorer.)
-Type your answers here
+Type your answers here<br>
 
 Question:
 What happened? Why would you want to do this?
-Type your answers here.
+Type your answers here.<br>
 
 m. Within the File Explorer or Windows Explorer, navigate to the Local Disk (C:).
 Question:
 What are folders listed in the Local Disk (C:)?
-Type your answers here.
+Type your answers here.<br>
 
 n. Open the Users folder. List all the folders in the directory.
-Type your answers here.
+Type your answers here.<br>
 
 o. Open the folder associated with your username.
 Question:
 Were you able to open it? Explain.
-Type your answers here.
+Type your answers here.<br>
 
 p. Open the folder associated with another username if it is available on the PC.
 Question:
 Were you able to open it? Explain. (Note: Windows 7 does not display other users’ folders.)
-Type yours answer here.
+Type yours answer here.<br>
 
 q. Notice the Public folder. This folder is accessible to any local users on the PC. Furthermore, it can be
 configured to be accessible for networked users.
 Question:
 Open the Public folder. List all the folders in the directory.
-Type your answers here.
+Type your answers here.<br>
+
 a. To access the library, click Start Open File Explorer or Windows Explorer.
 b. For Windows 8.x and 10, right-click the left panel. Click Show libraries.
 c. Expand the Libraries.
 Question:
 Which folders or files listed under the Libraries heading?
-Type your answers here.
+Type your answers here.<br>
+
 d. A new library can also be created. Right-click Libraries > click New > click Library. Provide a name for
 the new library.
 e. Include Folder1 in the new library, Folder1 on the Desktop can be added to the Libraries. Navigate to the
@@ -254,7 +256,7 @@ Lab - Working with File Explorer
 Question:
 How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents
 from the computer?
-Type your answers here.
+Type your answers here.<br>
 
 
 <h1>11.2.1.5 Lab - Explore Control Panel Categories</h1>
@@ -265,10 +267,11 @@ a. To open the Control Panel, click Start and search for Control Panel.
 b. In the Control Panel, click the View by: drop-down box.
 Question:
 What are the viewing options?
-Type your answers here.
+Type your answers here.<br>
+
 c. Select the Categories view as necessary.
 Name a few of the Control Panel categories.
-Type your answers here.
+Type your answers here.<br>
 
 The System and Security category provides computer system information and settings and configures the
 computer security settings.
@@ -276,9 +279,10 @@ Navigate to the System and Security category in the Control Panel. Use the subca
 following questions.
 Questions:
 Which subcategory would help you troubleshoot common problems?
-Type your answers here.
+Type your answers here.<br>
+
 Which subcategory allow a program through Windows Firewall?
-Type your answers here
+Type your answers here<br>
 
 
 The Network and Internet category allows you to view the network status and configure network related
@@ -287,67 +291,77 @@ Lab – Explore Control Panel Categories
  2019 - 2019 Cisco and/or its affiliates. All rights reserved. Cisco Public Page 2 of 3 www.netacad.com
 Question:
 Which subcategory allows you to view the basic network information and set up connections?
-Type your answers here.
+Type your answers here.<br>
 
 The Hardware and Sound category allows you to add and configure hardware devices including printers and
 Bluetooth capable devices, customize power options, and adjust sound related settings.
 Questions:
 Which subcategory allows you to choose what happens when you insert a media or device?
-Type your answers here.
+Type your answers here.<br>
+
 Which subcategory allows you to add a printer?
-Type your answers here
+Type your answers here<br>
 
 The Programs category provides program installation and uninstallation and the selection of specific
 programs that the Windows operating system will use by default. This category also allows you to
 install/uninstall windows features such as remote access and file transfer clients.
 Questions:
 Which subcategory would you use to have a specific file type always open in a specified program?
-Type your answers here.
+Type your answers here.<br>
+
 Which subcategory would you use to uninstall a program?
-Type your answers here.
+Type your answers here.<br>
+
 Which subcategory would you use to install the Windows telnet client?
-Type your answers here.
+Type your answers here.<br>
 
 
 The User Accounts category allows you to adjust user settings, such as account types and change
 passwords.
 Questions:
 Which subcategory would you use change the account type from administrator to standard?
-Type your answers here.
+Type your answers here.<br>
+
 Which subcategory would you use to view, edit, or remove the web and Windows credentials?
-Type your answers here.
+Type your answers here.<br>
 
 The Appearance and Personalization category allows you to configure the look and feel of Windows, such as
 the taskbar, navigation, and File Explorer options.
 Questions:
 Which subcategory would you use to customize the Taskbar?
-Type your answers here.
+Type your answers here.<br>
+
 Lab – Explore Control Panel Categories
  2019 - 2019 Cisco and/or its affiliates. All rights reserved. Cisco Public Page 3 of 3 www.netacad.com
 Which subcategory would you use to show hidden files and folders?
-Type your answers here.
+Type your answers here.<br>
+
 Which subcategory would you use to show extensions for known file types?
-Type your answers here.
+Type your answers here.<br>
 
 The Clock and Region category allows you to change the date, time, and region settings in Windows 10. In
 Windows 8.1 and 7, the Clock, Language, and Region category allows you to change the language settings in
 addition to date, time, and region settings.
 Questions:
 Which subcategory would you use to change the time zone?
-Type your answers here.
+Type your answers here.<br>
+
 Which subcategory would you use to change date format?
-Type your answers here.
+Type your answers here.<br>
+
 Which subcategory would you use to synchronize the time on a computer with a specific web server on the
 Internet?
-Type your answers here.
+Type your answers here.<br>
+
 The Ease of Access category allows you to customize the Windows operating system for all types of users.
 This category also provides the configuration of voice control of the computer.
 Questions:
 Which subcategory would you use to configure the computer to read aloud any text on the screen?
-Type your answers here.
+Type your answers here.<br>
+
 Which subcategory would you use to improve the computer’s ability to understand your voice and improve the
 dictation accuracy?
-Type your answers here.
+Type your answers here.<br>
 
 <h1>11.2.2.3 Lab - User Accounts</h1>
 
@@ -357,14 +371,17 @@ c. The Create New Account window opens. Type the name provided by your instructo
 account and choose an account type field and select Standard user as the account type.
 Questions:
 What can a user do with a limited account?
-Type your answers here.
+Type your answers here.<br>
+
 What limitations does this type of an account have?
-Type your answers here.
+Type your answers here.<br>
+
 d. Click Create Account to continue.
 e. Click the user account you just created.
 f. The Make changes to Username’s account? window opens. Click Create a password.
 What information is listed for the new account?
-Type your answers here.
+Type your answers here.<br>
+
 g. Type in the password and password hint provided by the instructor and then click Create password.
 
 a. Navigate to the Control Panel. In the small icons view, click User Accounts > Click Manage another
@@ -381,15 +398,19 @@ b. Click Remove user accounts in Windows 10 and 8.1 or Add or remove user accoun
 c. Select the account to be deleted. Click Delete the account.
 Question:
 For this lab, select Delete Files. What are the other options? When would you choose the other options?
-Type your answers here.
+Type your answers here.<br>
+
 
 1. Why is it important to protect all accounts with strong passwords?
-Type your answers here.
+Type your answers here.<br>
+
 2. Why would you create a user with Standard privileges?
-Type your answers here.
+Type your answers here.<br>
+
 3. In what type of situation would an IT administrator delete a user account and choose to keep the files of that
 user account instead of deleting them?
-Type your answers here.
+Type your answers here.<br>
+
 <h1>11.2.5.8 Lab - Manage Virtual Memory</h1>
 a. Navigate to the Control Panel. In the Small icons view, click System.
 b. In the System window, click Advanced system settings.
@@ -398,13 +419,13 @@ heading.
 d. In the Performance Options window, click the Advanced tab.
 Question:
 What is the current size of the virtual memory (paging file)?
-Type your answers here.
+Type your answers here.<br>
 
 a. Click Change in the Virtual memory area to open the Virtual Memory window.
 b. Remove the check mark from Automatically manage paging file size for all drives.
 Question:
 What Drive [Volume Label] contains the paging file?
-Type your answers here.
+Type your answers here.<br>
 
 c. Choose the I: drive. Select the Custom size: radio button.
 
@@ -415,45 +436,54 @@ If there is only one partition on the hard drive, use Disk Management to create 
 least 2GB before continuing with this lab.
 Question:
 What is the recommended paging file size for all drives?
-Type your answers here.
+Type your answers here.<br>
+
 a. Navigate to the System Properties window. (Control Panel > System >Advanced system settings).
 Select the Advanced tab and click Settings in the Performance area.
 b. In the Performance Options window, select the Advanced tab and click Change.
 c. The Virtual Memory window opens displaying the new paging file information. Verify your changes.
 Question:
 What Drive [Volume Label] contains the paging file?
-Type your answers here.
+Type your answers here.<br>
+
 Why would you ever change the default virtual memory page file settings in Windows?
-Type your answers here.
+Type your answers here.<br>
+
 <h1>11.2.6.2 Lab - Use Device Manager</h1>
 
 a. Log on to the computer as an administrator.
 b. Click Control Panel. In the Small icons view, select Device Manager.
 Questions
 What information is listed in the Device Manager window? Why would you use it?
-Type your answers here.
+Type your answers here.<br>
+
 Browse through the menus displayed at the top of the Device Manager window. Ho would you install
 driver software for an older device that may not be automatically recognized by the Windows operating
 system?
-Type your answers here.
+Type your answers here.<br>
+
 b. Right-click the device, Generic Non-PnP Monitor in the example, and select Properties from the
 dropdown menu.
 c. In the Generic Non-PnP Monitor Properties window, select the Driver tab. This window displays the
 software driver information that is currently installed for this monitor.
 Question:
 What additional information does Driver Details provide?
-Type your answers here.
+Type your answers here.<br>
+
 d. Click Update Driver.
 Question:
 What two options do you have for updating the driver?
-Type your answers here.
+Type your answers here.<br>
+
 e. From the Update Driver Software window, click Cancel to return to the Monitor Properties window.
 Questions:
 What does the Roll Back Driver button do? The Roll Back Driver can be grayed out on your computer,
 why would it be grayed out?
-Type your answers here.
+Type your answers here.<br>
+
 What are the other available options?
-Type your answers here.
+Type your answers here.<br>
+
 f. Close all open windows.
 
 
@@ -470,30 +500,32 @@ Defender Antivirus Network Inspection Service (Windows 10) or Windows Defender S
 (Windows 8.1) or Window Defender (Windows 7).
 Question:
 What is the status of the service?
-Type your answers here
+Type your answers here<br>
 
 d. Navigate back to Services. (Control Panel in Small icons view > Administrative Tools > Services).
 Click Action > click Refresh.
 Look for Windows Defender Antivirus Network Inspection Service (Windows 10) or Windows
 Defender Service (Windows 8.1) or Window Defender (Windows 7). Record the Windows Defender
 status.
-Type your answers here.
+Type your answers here.<br>
+
 f. In the Application or System pane, you can find the most recent events are related to Windows Defender.
 Right-click the interested log, select Find. Enter defender to search Windows Defender related entries.
 In the General tab, what is listed as the Source of the event? What is the severity level?
-Type your answers here.
+Type your answers here.<br>
+
 
 a. Open Notepad. Click Start and search for Notepad.
 b. In Notepad, click File > Print. Record a listed printer below. Note: You do not need to install a physical
 printer.
-Type your answers here.
+Type your answers here.<br>
 
 a. Open the Services console. (Control Panel > Administrative Tools > Services)
 b. Right-click Print Spooler and select Stop.
 c. Navigate to Notepad. Attempt to print.
 Question:
 What message did you receive? How would you fix this?
-Type your answers here.
+Type your answers here.<br>
 
 
 The DHCP Client service registers and updates the IP addresses and DNS records for the PC. If this service
@@ -501,18 +533,20 @@ is stopped, the PC will not receive a dynamic IP address and DNS updates.
 a. In the Services console, search for DHCP Client. Right-click DHCP Client and select Stop.
 Question:
 When DHCP Client stops, what other services will also be stopped?
-Type your answers here.
+Type your answers here.<br>
+
 b. Click No in the Stop Other Services window.
 Question:
 Why is it important to exercise care when managing services?
-Type your answers here.
+Type your answers here.<br>
+
 c. Verify that DHCP Client is still running.
 
 b. In DataCollector01 Properties window, change the Log format: field to Comma Separated.
 c. Click the File tab.
 Question:
 What is the full path name to the example file name?
-Type your answers here.
+Type your answers here.<br>
 
 d. Open the folder that was created to store the memory log. Click Continue on the Windows warning
 messages. Open the DataCollector01.csv file.
@@ -521,7 +555,7 @@ Select Notepad or another program that can read comma-separated files (.csv) to 
 Windows cannot open the file message is displayed.
 Question:
 What does the column farthest to the right show?
-Type your answers here.
+Type your answers here.<br>
 
 <h1>11.3.2.7 Lab - System Utilities</h1>
 
