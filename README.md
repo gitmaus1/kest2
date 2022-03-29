@@ -252,7 +252,7 @@ Type your answers here. það er núna sjáanlect í Quick access sem gerir þa�
 m. Within the File Explorer or Windows Explorer, navigate to the Local Disk (C:).
 Question:
 What are folders listed in the Local Disk (C:)?<br>
-Type your answers here. Boot. Intel. PerfLogs. Program Files (x86)<br>
+Type your answers here. Boot. Intel. PerfLogs. Program Files (x86). Users. Windows.<br>
 
 
 
@@ -264,31 +264,67 @@ Type your answers here. Boot. Intel. PerfLogs. Program Files (x86)<br>
 
 
 
-n. Open the Users folder. List all the folders in the directory.
-Type your answers here.<br>
+n. Open the Users folder. List all the folders in the directory.<br>
+Type your answers here. agust. Public.<br>
+
+
+
+
+
+
+
 
 o. Open the folder associated with your username.
 Question:
-Were you able to open it? Explain.
-Type your answers here.<br>
+Were you able to open it? Explain.<br>
+Type your answers here. já það eru fult af folders til dæmis 3D Objects. Desktop. Music og svo framveigis<br>
+
+
+
+
+
+
+
+
+
+
 
 p. Open the folder associated with another username if it is available on the PC.
 Question:
-Were you able to open it? Explain. (Note: Windows 7 does not display other users’ folders.)
-Type yours answer here.<br>
+Were you able to open it? Explain. (Note: Windows 7 does not display other users’ folders.)<br>
+Type yours answer here. bara 1 nodandi en ef það væri 2 nodendur gæti eg opnað hann en hann ekki mig nama lefin væru stilt til að leifa það<br>
+
+
+
+
+
 
 q. Notice the Public folder. This folder is accessible to any local users on the PC. Furthermore, it can be
 configured to be accessible for networked users.
 Question:
-Open the Public folder. List all the folders in the directory.
-Type your answers here.<br>
+Open the Public folder. List all the folders in the directory.<br>
+Type your answers here.  Public Documents,Public Downloads. Public Music. Public Pictures. Public Videos.<br>
+
+
+
+
+
+
 
 a. To access the library, click Start Open File Explorer or Windows Explorer.
 b. For Windows 8.x and 10, right-click the left panel. Click Show libraries.
-c. Expand the Libraries.
+c. Expand the Libraries.<br>
 Question:
 Which folders or files listed under the Libraries heading?
-Type your answers here.<br>
+Type your answers here.  Camera Roll. Documents. Music. Pictures. Saved Pictures. Videos.<br>
+
+
+
+
+
+
+
+
 
 d. A new library can also be created. Right-click Libraries > click New > click Library. Provide a name for
 the new library.
@@ -299,8 +335,23 @@ Lab - Working with File Explorer
 © 2019 - 2019 Cisco and/or its affiliates. All rights reserved. Cisco Public Page 4 of 4 www.netacad.com
 Question:
 How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents
-from the computer?
-Type your answers here.<br>
+from the computer?<br>
+Type your answers here. select it in Manage library and nota Remove <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <h1>11.2.1.5 Lab - Explore Control Panel Categories</h1>
