@@ -186,21 +186,36 @@ pw1206-demo
 
 <h1>11.1.4.11 Lab - Working with File Explorer</h1>
 
-What happened with Folder1 and Folder2 on the Desktop?
-folder1 fór in í folder2 folder2/folder1
+What happened with Folder1 and Folder2 on the Desktop?<br>
+folder2 fór in í folder1 folder1/folder2<br>
 
 Question:
-What is the file extension for the text document?
-Type your answers here.<br>
+What is the file extension for the text document?<br>
+Type your answers here. .txt<br>
 
 h. Make a copy of the text document and place it in Folder2.
 Question:
-How would you do it?
-Type your answers here.<br>
+How would you do it?<br>
+Type your answers here. just copy paste<br>
+
+
+
+
+
 
 i. Right-click the text document > click Properties. Click the Details tab.
-What are the attributes associated with this file?
-Type your answers here.<br>
+What are the attributes associated with this file?<br>
+Type your answers here. 
+Name: Text Document1.txt Type: Text Document folder path: C:\Users\agust\Desktop\Folder\felder2 Size: 0 bytes date created: 3/29/2022 1:43 PM 
+date modified: 3/29/2022 1:30 PM  Attributes:   A  Owner: DESKTOP-B3120JP\agust Computer: DESKTOP-B3120JP (this PC)  <br>
+
+
+
+
+
+
+
+
 
 j. Now create a folder named Folder3 inside Folder2.
 Questions:
