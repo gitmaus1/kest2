@@ -240,7 +240,7 @@ Type your answers here     3D Objects. Desktop. Documents, Downloads. Music. Pic
 
 Question:
 What happened? Why would you want to do this?<br>
-Type your answers here. það er núna sjáanlect í Quick access<br>
+Type your answers here. það er núna sjáanlect í Quick access sem gerir það auðvelt að finna<br>
 
 
 
@@ -251,8 +251,18 @@ Type your answers here. það er núna sjáanlect í Quick access<br>
 
 m. Within the File Explorer or Windows Explorer, navigate to the Local Disk (C:).
 Question:
-What are folders listed in the Local Disk (C:)?
-Type your answers here.<br>
+What are folders listed in the Local Disk (C:)?<br>
+Type your answers here. Boot. Intel. PerfLogs. Program Files (x86)<br>
+
+
+
+
+
+
+
+
+
+
 
 n. Open the Users folder. List all the folders in the directory.
 Type your answers here.<br>
