@@ -206,7 +206,7 @@ Type your answers here. just copy paste<br>
 i. Right-click the text document > click Properties. Click the Details tab.
 What are the attributes associated with this file?<br>
 Type your answers here. 
-Name: Text Document1.txt Type: Text Document folder path: C:\Users\agust\Desktop\Folder\felder2 Size: 0 bytes date created: 3/29/2022 1:43 PM 
+Name: Text Document1.txt Type: Text Document folder path: C:\Users\agust\Desktop\Folder\folder2 Size: 0 bytes date created: 3/29/2022 1:43 PM 
 date modified: 3/29/2022 1:30 PM  Attributes:   A  Owner: DESKTOP-B3120JP\agust Computer: DESKTOP-B3120JP (this PC)  <br>
 
 
@@ -219,16 +219,35 @@ date modified: 3/29/2022 1:30 PM  Attributes:   A  Owner: DESKTOP-B3120JP\agust 
 
 j. Now create a folder named Folder3 inside Folder2.
 Questions:
-What is the complete path to Folder3? (Hint: One way to find this information is in the folder properties.)
-Type your answers here.<br>
+What is the complete path to Folder3? (Hint: One way to find this information is in the folder properties.)<br>
+Type your answers here. C:\Users\agust\Desktop\Folder\folder2<br>
+
+
+
+
+
+
 
 In Windows 8.x and 10, which directories are listed under Folders? (Note: There is no Folders heading in
 Windows Explorer.)
-Type your answers here<br>
+Type your answers here     3D Objects. Desktop. Documents, Downloads. Music. Pictures. Videos.<br>
+
+
+
+
+
+
 
 Question:
-What happened? Why would you want to do this?
-Type your answers here.<br>
+What happened? Why would you want to do this?<br>
+Type your answers here. það er núna sjáanlect í Quick access<br>
+
+
+
+
+
+
+
 
 m. Within the File Explorer or Windows Explorer, navigate to the Local Disk (C:).
 Question:
