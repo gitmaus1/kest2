@@ -561,7 +561,7 @@ Type your answers here. File Explorer Options<br>
 
 
 Which subcategory would you use to show extensions for known file types?<br>
-Type your answers here. <br>
+Type your answers here. File Explorer Options<br>
 
 
 
@@ -577,25 +577,81 @@ The Clock and Region category allows you to change the date, time, and region se
 Windows 8.1 and 7, the Clock, Language, and Region category allows you to change the language settings in
 addition to date, time, and region settings.
 Questions:
-Which subcategory would you use to change the time zone?
-Type your answers here.<br>
+Which subcategory would you use to change the time zone?<br>
+Type your answers here. Date and Time<br>
 
-Which subcategory would you use to change date format?
-Type your answers here.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+Which subcategory would you use to change date format?<br>
+Type your answers here. Region<br>
+
+
+
+
+
+
+
 
 Which subcategory would you use to synchronize the time on a computer with a specific web server on the
-Internet?
-Type your answers here.<br>
+Internet?<br>
+Type your answers here. Date and Time<br>
+
+
+
+
+
+
+
+
+
+
+
 
 The Ease of Access category allows you to customize the Windows operating system for all types of users.
 This category also provides the configuration of voice control of the computer.
 Questions:
-Which subcategory would you use to configure the computer to read aloud any text on the screen?
-Type your answers here.<br>
+Which subcategory would you use to configure the computer to read aloud any text on the screen?<br>
+Type your answers here. Ease of Access Center<br>
+
+
+
+
+
+
+
+
+
+
+
+
 
 Which subcategory would you use to improve the computer’s ability to understand your voice and improve the
-dictation accuracy?
-Type your answers here.<br>
+dictation accuracy?<br>
+Type your answers here. Speech Recognition<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h1>11.2.2.3 Lab - User Accounts</h1>
 
