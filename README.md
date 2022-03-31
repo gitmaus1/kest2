@@ -361,23 +361,60 @@ Windows.
 a. To open the Control Panel, click Start and search for Control Panel.
 b. In the Control Panel, click the View by: drop-down box.
 Question:
-What are the viewing options?
-Type your answers here.<br>
+What are the viewing options?<br>
+Type your answers here. Category. Large icons. Small icons.<br>
+
+
+
+
+
+
+
+
 
 c. Select the Categories view as necessary.
-Name a few of the Control Panel categories.
-Type your answers here.<br>
+Name a few of the Control Panel categories.<br>
+Type your answers here. System and Security. Programs. User Accunts.<br>
+
+
+
+
+
+
+
+
+
 
 The System and Security category provides computer system information and settings and configures the
 computer security settings.
 Navigate to the System and Security category in the Control Panel. Use the subcategories to answer the
 following questions.
 Questions:
-Which subcategory would help you troubleshoot common problems?
-Type your answers here.<br>
+Which subcategory would help you troubleshoot common problems?<br>
+Type your answers here. Security ant Maintenance<br>
 
-Which subcategory allow a program through Windows Firewall?
-Type your answers here<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+Which subcategory allow a program through Windows Firewall?<br>
+Type your answers here Windows Defender Firewall<br>
+
+
+
+
+
+
+
 
 
 The Network and Internet category allows you to view the network status and configure network related
@@ -385,29 +422,74 @@ setting and preferences.
 Lab – Explore Control Panel Categories
  2019 - 2019 Cisco and/or its affiliates. All rights reserved. Cisco Public Page 2 of 3 www.netacad.com
 Question:
-Which subcategory allows you to view the basic network information and set up connections?
-Type your answers here.<br>
+Which subcategory allows you to view the basic network information and set up connections?<br>
+Type your answers here. Network and Sharing Center<br>
+
+
+
+
+
+
+
+
+
 
 The Hardware and Sound category allows you to add and configure hardware devices including printers and
 Bluetooth capable devices, customize power options, and adjust sound related settings.
 Questions:
-Which subcategory allows you to choose what happens when you insert a media or device?
-Type your answers here.<br>
+Which subcategory allows you to choose what happens when you insert a media or device?<br>
+Type your answers here. AutoPlay<br>
 
-Which subcategory allows you to add a printer?
-Type your answers here<br>
+
+
+
+
+
+
+
+
+
+
+
+Which subcategory allows you to add a printer?<br>
+Type your answers here Devices and Printers<br>
+
+
+
+
+
+
+
+
+
+
 
 The Programs category provides program installation and uninstallation and the selection of specific
 programs that the Windows operating system will use by default. This category also allows you to
 install/uninstall windows features such as remote access and file transfer clients.
 Questions:
-Which subcategory would you use to have a specific file type always open in a specified program?
-Type your answers here.<br>
+Which subcategory would you use to have a specific file type always open in a specified program?<br>
+Type your answers here. Default Programs<br>
 
-Which subcategory would you use to uninstall a program?
-Type your answers here.<br>
 
-Which subcategory would you use to install the Windows telnet client?
+
+
+
+
+
+
+Which subcategory would you use to uninstall a program?<br>
+Type your answers here. Programs and Features<br>
+
+
+
+
+
+
+
+
+
+Which subcategory would you use to install the Windows telnet client?<br>
 Type your answers here.<br>
 
 
