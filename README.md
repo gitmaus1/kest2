@@ -490,31 +490,88 @@ Type your answers here. Programs and Features<br>
 
 
 Which subcategory would you use to install the Windows telnet client?<br>
-Type your answers here.<br>
+Type your answers here. Programs and Features<br>
+
+
+
+
+
+
+
+
 
 
 The User Accounts category allows you to adjust user settings, such as account types and change
 passwords.
 Questions:
-Which subcategory would you use change the account type from administrator to standard?
-Type your answers here.<br>
+Which subcategory would you use change the account type from administrator to standard?<br>
+Type your answers here. User Accounts<br>
 
-Which subcategory would you use to view, edit, or remove the web and Windows credentials?
-Type your answers here.<br>
+
+
+
+
+
+
+
+
+Which subcategory would you use to view, edit, or remove the web and Windows credentials?<br>
+Type your answers here. Credential Manager<br>
+
+
+
+
+
+
+
+
+
+
 
 The Appearance and Personalization category allows you to configure the look and feel of Windows, such as
 the taskbar, navigation, and File Explorer options.
 Questions:
-Which subcategory would you use to customize the Taskbar?
-Type your answers here.<br>
+Which subcategory would you use to customize the Taskbar?<br>
+Type your answers here. Taskbar and Navigation<br>
 
-Lab – Explore Control Panel Categories
- 2019 - 2019 Cisco and/or its affiliates. All rights reserved. Cisco Public Page 3 of 3 www.netacad.com
-Which subcategory would you use to show hidden files and folders?
-Type your answers here.<br>
 
-Which subcategory would you use to show extensions for known file types?
-Type your answers here.<br>
+
+
+
+
+
+
+
+
+
+Which subcategory would you use to show hidden files and folders?<br>
+Type your answers here. File Explorer Options<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Which subcategory would you use to show extensions for known file types?<br>
+Type your answers here. <br>
+
+
+
+
+
+
+
+
+
+
 
 The Clock and Region category allows you to change the date, time, and region settings in Windows 10. In
 Windows 8.1 and 7, the Clock, Language, and Region category allows you to change the language settings in
