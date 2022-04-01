@@ -957,11 +957,7 @@ Type your answers here. not running wont turn on<br>
 a. Open Notepad. Click Start and search for Notepad.
 b. In Notepad, click File > Print. Record a listed printer below. Note: You do not need to install a physical
 printer.<br>
-Type your answers here.<br>
-
-
-
-
+Type your answers here. Microsoft Print to PDF.  OneNote for Windows 10<br>
 
 
 
@@ -978,21 +974,59 @@ a. Open the Services console. (Control Panel > Administrative Tools > Services)
 b. Right-click Print Spooler and select Stop.
 c. Navigate to Notepad. Attempt to print.
 Question:
-What message did you receive? How would you fix this?
-Type your answers here.<br>
+What message did you receive? How would you fix this?<br>
+Type your answers here. Before you can perform printer-related tasks such as page setup or printing a document, you need to install a printer.
+do you want to install a printer now?. lagar það með því að setja upp prentara og starta print spooler<br>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 The DHCP Client service registers and updates the IP addresses and DNS records for the PC. If this service
 is stopped, the PC will not receive a dynamic IP address and DNS updates.
 a. In the Services console, search for DHCP Client. Right-click DHCP Client and select Stop.
 Question:
-When DHCP Client stops, what other services will also be stopped?
-Type your answers here.<br>
+When DHCP Client stops, what other services will also be stopped?<br>
+Type your answers here. IP Helper. WinHTTP Web Proxy auto-Discovery Service. Network List Service. Nerwork Location Awareness<br>
+
+
+
+
+
+
+
+
+
 
 b. Click No in the Stop Other Services window.
 Question:
-Why is it important to exercise care when managing services?
-Type your answers here.<br>
+Why is it important to exercise care when managing services?<br>
+Type your answers here. services afect one another and turning one off can braek uther sistems and leve the computer wonerabull<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 c. Verify that DHCP Client is still running.
 
