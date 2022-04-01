@@ -741,40 +741,138 @@ Type your answers here.<br>
 
 <h1>11.2.6.2 Lab - Use Device Manager</h1>
 
+
+
+
+
+
+
+
+
+
+
 a. Log on to the computer as an administrator.
 b. Click Control Panel. In the Small icons view, select Device Manager.
 Questions
-What information is listed in the Device Manager window? Why would you use it?
-Type your answers here.<br>
+What information is listed in the Device Manager window? Why would you use it?<br>
+Type your answers here. það er listi ifir tæki og aðra hluti eins og Processors Storage controllers her er hægt að shá kvaða tæki eru teingd og þú getur ubdeadað driver og install driver software<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Browse through the menus displayed at the top of the Device Manager window. Ho would you install
 driver software for an older device that may not be automatically recognized by the Windows operating
-system?
-Type your answers here.<br>
+system?<br>
+Type your answers here. þú getur klikað á tækið og þá kemur upp glugi með General. Driver. Details. Events. Resources. í driver er Update Driver og 
+Roll back Driver<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 b. Right-click the device, Generic Non-PnP Monitor in the example, and select Properties from the
 dropdown menu.
 c. In the Generic Non-PnP Monitor Properties window, select the Driver tab. This window displays the
 software driver information that is currently installed for this monitor.
 Question:
-What additional information does Driver Details provide?
-Type your answers here.<br>
+What additional information does Driver Details provide?<br>
+Type your answers here. Provider: Microsoft Corprtation. File version: 10.0.19041.1151(WinBuild.160101.0800). Copyright: Microsoft Corprtation.
+all rights reserved. Digital Signer: Microsoft Windows.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 d. Click Update Driver.
 Question:
 What two options do you have for updating the driver?
-Type your answers here.<br>
+Type your answers here. Serch automatically for drivers. Browse my computer for drivers<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 e. From the Update Driver Software window, click Cancel to return to the Monitor Properties window.
 Questions:
 What does the Roll Back Driver button do? The Roll Back Driver can be grayed out on your computer,
-why would it be grayed out?
-Type your answers here.<br>
+why would it be grayed out?<br>
+Type your answers here.   instals a driver sem war áður set upp á tækinu hann er grár ef það er hefur ekki verið sit upp gamal driver áður<br>
 
-What are the other available options?
-Type your answers here.<br>
+
+
+
+
+
+
+
+
+
+What are the other available options?<br>
+Type your answers here. Driver Details. Disable Device. Uninstall Device. <br>
 
 f. Close all open windows.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
