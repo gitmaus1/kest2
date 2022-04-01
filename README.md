@@ -758,12 +758,45 @@ or User Accounts and Family Safety in Windows 8.1 and 7.
 b. Click Remove user accounts in Windows 10 and 8.1 or Add or remove user accounts in Windows 7.
 c. Select the account to be deleted. Click Delete the account.
 Question:
-For this lab, select Delete Files. What are the other options? When would you choose the other options?
-Type your answers here.<br>
+For this lab, select Delete Files. What are the other options? When would you choose the other options?<br>
+Type your answers here. Keep Files cobear files í anan folder áður en nodandi er delidað<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 1. Why is it important to protect all accounts with strong passwords?
-Type your answers here.<br>
+Type your answers here. anars er hægt að brjotast in í tölvuna<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 2. Why would you create a user with Standard privileges?
 Type your answers here.<br>
