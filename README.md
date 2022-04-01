@@ -887,26 +887,92 @@ b. Scroll to the Computer Management window under the Services heading so you se
 Defender Antivirus Network Inspection Service (Windows 10) or Windows Defender Service
 (Windows 8.1) or Window Defender (Windows 7).
 Question:
-What is the status of the service?
-Type your answers here<br>
+What is the status of the service?<br>
+Type your answers here  some services are running önnur ekki<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 d. Navigate back to Services. (Control Panel in Small icons view > Administrative Tools > Services).
 Click Action > click Refresh.
 Look for Windows Defender Antivirus Network Inspection Service (Windows 10) or Windows
 Defender Service (Windows 8.1) or Window Defender (Windows 7). Record the Windows Defender
-status.
-Type your answers here.<br>
+status.<br>
+Type your answers here.  not running<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 f. In the Application or System pane, you can find the most recent events are related to Windows Defender.
 Right-click the interested log, select Find. Enter defender to search Windows Defender related entries.
-In the General tab, what is listed as the Source of the event? What is the severity level?
-Type your answers here.<br>
+In the General tab, what is listed as the Source of the event? What is the severity level?<br>
+Type your answers here. not running wont turn on<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 a. Open Notepad. Click Start and search for Notepad.
 b. In Notepad, click File > Print. Record a listed printer below. Note: You do not need to install a physical
-printer.
+printer.<br>
 Type your answers here.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 a. Open the Services console. (Control Panel > Administrative Tools > Services)
 b. Right-click Print Spooler and select Stop.
