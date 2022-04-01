@@ -660,17 +660,74 @@ b. The Manage Accounts window opens. Click Create a new account.
 c. The Create New Account window opens. Type the name provided by your instructor in the Name the
 account and choose an account type field and select Standard user as the account type.
 Questions:
-What can a user do with a limited account?
-Type your answers here.<br>
+What can a user do with a limited account?<br>
+Type your answers here.  fara á netið og nota flest progröm en ekki preit flestum stilingum<br>
 
-What limitations does this type of an account have?
-Type your answers here.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What limitations does this type of an account have?<br>
+Type your answers here. getur ekki breit flestum stilingum og ekki breit neinu firir aðra nodendur<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 d. Click Create Account to continue.
 e. Click the user account you just created.
 f. The Make changes to Username’s account? window opens. Click Create a password.
-What information is listed for the new account?
-Type your answers here.<br>
+What information is listed for the new account?<br>
+Type your answers here. það er venulect acunt ekki adminustrator <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 g. Type in the password and password hint provided by the instructor and then click Create password.
 
@@ -680,8 +737,22 @@ b. Select the newly created account.
 c. Click Change the account type.
 d. Select Administrator as the account type and click Change Account Type.
 Question:
-What is the advantage of having most users work within a Standard user account?
-Type your answers here.
+What is the advantage of having most users work within a Standard user account?<br>
+Type your answers here. folk getur ekki fictað við stilingar og skaðað töllvuna og þú getur stjórnað kvað miklu það getur gert<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 a. Navigate to the Control Panel. Change back to the Category view, click User Accounts in Windows 10
 or User Accounts and Family Safety in Windows 8.1 and 7.
 b. Click Remove user accounts in Windows 10 and 8.1 or Add or remove user accounts in Windows 7.
