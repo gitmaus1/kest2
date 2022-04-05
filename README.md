@@ -1208,27 +1208,7 @@ Type your answers here. services afect one another and turning one off can braek
 
 
 
-<h1>11.3.2.7 Lab - System Utilities</h1>
 
-<h1>11.3.2.8 Lab - Manage System Files</h1>
-
-<h1>11.4.1.5 Lab - Work in the Windows Command Shell</h1>
-
-<h1>11.4.2.7 Lab - File System Commands</h1>
-
-<h1>11.4.3.2 Lab - Disk CLI Commands</h1>
-
-<h1>11.4.4.2 Lab - Task and System CLI Commands</h1>
-
-<h1>11.4.5.3 Lab - Other Useful Commands, sleppa step 2 í part 2</h1>
-
-
-
-Í eftirfarandi verkefnum þurfa tveir hópar að vinna saman.
-
-11.5.2.4 Lab - Share Resources
-
-11.5.6.2 Lab - Windows Remote Desktop and Assistance
 
 
 
