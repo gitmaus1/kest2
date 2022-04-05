@@ -781,7 +781,7 @@ Type your answers here. Keep Files cobear files í anan folder áður en nodandi
 
 
 
-1. Why is it important to protect all accounts with strong passwords?
+1. Why is it important to protect all accounts with strong passwords?<br>
 Type your answers here. anars er hægt að brjotast in í tölvuna<br>
 
 
@@ -798,12 +798,38 @@ Type your answers here. anars er hægt að brjotast in í tölvuna<br>
 
 
 
-2. Why would you create a user with Standard privileges?
-Type your answers here.<br>
+2. Why would you create a user with Standard privileges?<br>
+Type your answers here. wilt ekki að hann figti í stilingum og vegna örigis<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 3. In what type of situation would an IT administrator delete a user account and choose to keep the files of that
-user account instead of deleting them?
-Type your answers here.<br>
+user account instead of deleting them?<br>
+Type your answers here. vinumaður er að hæta og þú vilt ekki taba vinu hans<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h1>11.2.5.8 Lab - Manage Virtual Memory</h1>
 a. Navigate to the Control Panel. In the Small icons view, click System.
