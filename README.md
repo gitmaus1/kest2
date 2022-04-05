@@ -838,36 +838,84 @@ c. In the System Properties window, select the Advanced tab and click Settings u
 heading.
 d. In the Performance Options window, click the Advanced tab.
 Question:
-What is the current size of the virtual memory (paging file)?
-Type your answers here.<br>
+What is the current size of the virtual memory (paging file)?<br>
+Type your answers here. 1216 MB<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 a. Click Change in the Virtual memory area to open the Virtual Memory window.
 b. Remove the check mark from Automatically manage paging file size for all drives.
 Question:
-What Drive [Volume Label] contains the paging file?
-Type your answers here.<br>
+What Drive [Volume Label] contains the paging file?<br>
+Type your answers here. C:               System managed<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 c. Choose the I: drive. Select the Custom size: radio button.
-
-
 Note: Your drive letter and volume may be different than the example. Replace I: with the drive letter for
 your second partition on your PC.
 If there is only one partition on the hard drive, use Disk Management to create a second partition with at
 least 2GB before continuing with this lab.
 Question:
-What is the recommended paging file size for all drives?
-Type your answers here.<br>
+What is the recommended paging file size for all drives?<br>
+Type your answers here.  Minimum allowed:  16 MB.    Recommended:     1879 MB.      Currently allocated:     1216 MB<br>
 
-a. Navigate to the System Properties window. (Control Panel > System >Advanced system settings).
-Select the Advanced tab and click Settings in the Performance area.
-b. In the Performance Options window, select the Advanced tab and click Change.
-c. The Virtual Memory window opens displaying the new paging file information. Verify your changes.
-Question:
-What Drive [Volume Label] contains the paging file?
-Type your answers here.<br>
 
-Why would you ever change the default virtual memory page file settings in Windows?
-Type your answers here.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h1>11.2.6.2 Lab - Use Device Manager</h1>
 
@@ -1158,22 +1206,7 @@ Type your answers here. services afect one another and turning one off can braek
 
 
 
-c. Verify that DHCP Client is still running.
 
-b. In DataCollector01 Properties window, change the Log format: field to Comma Separated.
-c. Click the File tab.
-Question:
-What is the full path name to the example file name?
-Type your answers here.<br>
-
-d. Open the folder that was created to store the memory log. Click Continue on the Windows warning
-messages. Open the DataCollector01.csv file.
- 2015 - 2019 Cisco and/or its affiliates. All rights reserved. Cisco Public Page 5 of 5 www.netacad.com
-Select Notepad or another program that can read comma-separated files (.csv) to open the file if the
-Windows cannot open the file message is displayed.
-Question:
-What does the column farthest to the right show?
-Type your answers here.<br>
 
 <h1>11.3.2.7 Lab - System Utilities</h1>
 
